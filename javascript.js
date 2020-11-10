@@ -1,4 +1,4 @@
-const axios = require('axios').default;
+/*const axios = require('axios').default;
 
 async function getRandom() {
 
@@ -14,4 +14,4 @@ async function getRandom() {
         .then(function () {
 
         });
-}
+}*/
